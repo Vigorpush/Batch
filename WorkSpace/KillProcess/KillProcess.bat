@@ -1,10 +1,10 @@
 @echo off
 :1
-title 结束进程
+title End Process
 color f1
 mode con: cols=40 lines=18
 echo.
-set /p run=请输入要结束的程序名 
+set /p run=Please input the process name you want end
 ::ntsd -c q -pn %run%
 taskkill /f /t /im  %run% 
 pause>nul
