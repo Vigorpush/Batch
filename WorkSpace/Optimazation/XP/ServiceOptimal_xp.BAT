@@ -2,7 +2,7 @@ cls
 
 @echo off
 
-rem WINDOS XP 服务优化批处理文件！！ 
+rem WINDOS XP 服务优化批处理文件 
 @pause 
 
 @rem  Alerter 

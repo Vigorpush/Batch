@@ -1,7 +1,6 @@
 :: 修改IDE通道检测设备模式，不接设备的设置为无，提高XP启动速度
 :: 建议在系统第二次重新启动检测到所有已经安装的IDE设备后运行
-:: Author: Climbing(xclimbing@msn.com)
-:: Date: 2006.10.28
+
 @set _debug=
 @echo %_debug% off & setlocal ENABLEDELAYEDEXPANSION
 set hkey1=HKLM\SYSTEM\CurrentControlSet\Enum\PCIIDE\IDEChannel

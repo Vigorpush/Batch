@@ -1,4 +1,4 @@
-TITLE winodws XP 优化处理文件 By 阿拉发贴 谢谢您关注网盟！
+TITLE winodws XP 优化处理文件 
 COLOR 0A
 CLS
 @echo off
@@ -612,18 +612,7 @@ sfc /purgecache
 echo 完成百分之 100
 cls
 echo.
-echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-echo 优化全部完成！
-echo.
-echo 感谢您使用winodws XP 优化处理文件！
-echo.
-echo By：阿拉发贴
-echo.
-echo 如果好用就顶一下！！！！！^_^
-echo.
-echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+echo Press anykey to exist
 echo.
 echo. & pause 
 exit
