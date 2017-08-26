@@ -1,0 +1,1 @@
+taskkill /F /IM 360chrome.exe /T >nul
